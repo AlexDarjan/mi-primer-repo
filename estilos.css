@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   margin: 40px;
-  background-color: #f4f4f4;
+  background-color: rosybrown;
 }
 
 h1 {
@@ -9,6 +9,6 @@ h1 {
 }
 footer {
   margin-top: 40px;
-  color: #666666;
+  color: greenyellow;
   font-size: 0.9em;
 }
